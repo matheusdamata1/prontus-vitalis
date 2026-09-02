@@ -1,0 +1,5 @@
+-- Prontus Vitalis | 01_tabelas.sql
+-- As tabelas abaixo foram carregadas no Oracle FreeSQL pelo importador.
+-- Fonte 1: SIH/SUS -> SIH_SUS_CONSOLIDADO
+-- Fonte 2: CNES -> CNES_MUNICIPAL
+-- Fonte 3: Macrorregião e Região de Saúde -> FONTE_3_REGIOES
