@@ -3,7 +3,7 @@
 ### Inteligência de dados para decisões mais rápidas na saúde.
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Prontus Vitalis">
+  <img src="./assets/banner.jpg" alt="Prontus Vitalis">
 </p>
 
 <p align="center">
