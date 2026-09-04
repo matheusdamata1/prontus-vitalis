@@ -4,7 +4,7 @@
 <p align="center">
   <img src="./assets/banner.jpg" alt="Prontus Vitalis">
 </p>
-# Enterprise Challenge · Oracle × FIAP · 2026/1
+              Enterprise Challenge · Oracle × FIAP · 2026/1
 
 O **Prontus Vitalis** é uma solução de análise de dados aplicada à saúde pública, desenvolvida para apoiar gestores na identificação de cenários de maior demanda e pressão assistencial.
 
